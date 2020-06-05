@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import dataButtons from "../assets/buttons.js";
+import dataButtons from "../../assets/buttons.js";
 import { NavLink } from "react-router-dom";
 import styles from "./MenuBar.module.scss";
 import DropDown from "../DropDown/DropDown.js";

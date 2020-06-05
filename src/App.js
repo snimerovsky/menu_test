@@ -3,7 +3,7 @@ import styles from "./App.module.scss";
 import logo from "./images/logo.svg";
 import { Icon } from "@iconify/react";
 import menuIcon from "@iconify/icons-heroicons-outline/menu";
-import HeaderMenu from "./HeaderMenu/HeaderMenu";
+import HeaderMenu from "./components/HeaderMenu/HeaderMenu";
 
 function App() {
   const [isOpen, setIsOpen] = useState(false);

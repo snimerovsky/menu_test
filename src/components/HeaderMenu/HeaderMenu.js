@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./HeaderMenu.module.scss";
 import { Icon } from "@iconify/react";
 import closeIcon from "@iconify/icons-ion/close";
-import icon from "../images/logo.svg";
+import icon from "../../images/logo.svg";
 import MenuBar from "../MenuBar/MenuBar";
 
 function HeaderMenu(props) {

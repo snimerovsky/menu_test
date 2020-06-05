@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styles from "../MenuBar/MenuBar.module.scss";
-import iconDown from "../images/down.svg";
+import iconDown from "../../images/down.svg";
 import { NavLink } from "react-router-dom";
 import AnimateHeight from "react-animate-height";
 
